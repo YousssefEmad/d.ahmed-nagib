@@ -1,0 +1,471 @@
+/*!
+*    ______ _       _   _
+*    |  ____| |     | | (_)
+*    | |__  | | __ _| |_ _  ___ ___  _ __
+*    |  __| | |/ _` | __| |/ __/ _ \| '_ \
+*    | |    | | (_| | |_| | (_| (_) | | | |
+*    |_|    |_|\__,_|\__|_|\___\___/|_| |_|
+*
+*         https://www.flaticon.com
+*/
+
+@font-face {
+    font-family: "flaticon";
+    src: url("../fonts/flaticondc64.woff2?0dfb4822004fbcc993aae7533ea9b735") format("woff2"),
+        url("../fonts/flaticondc64.woff?0dfb4822004fbcc993aae7533ea9b735") format("woff"),
+        url("../fonts/flaticondc64.eot?0dfb4822004fbcc993aae7533ea9b735#iefix") format("embedded-opentype"),
+        url("../fonts/flaticondc64.ttf?0dfb4822004fbcc993aae7533ea9b735") format("truetype"),
+        url("../fonts/flaticondc64.svg?0dfb4822004fbcc993aae7533ea9b735#flaticon") format("svg")
+}
+
+i[class^="icon-"]:before,
+i[class*=" icon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-doctor:before {
+    content: "\f101";
+}
+
+.icon-appointment:before {
+    content: "\f102";
+}
+
+.icon-placeholder:before {
+    content: "\f103";
+}
+
+.icon-gesundheit:before {
+    content: "\f104";
+}
+
+.icon-gesundheit-1:before {
+    content: "\f105";
+}
+
+.icon-team:before {
+    content: "\f106";
+}
+
+.icon-family:before {
+    content: "\f107";
+}
+
+.icon-hospital-building:before {
+    content: "\f108";
+}
+
+.icon-emergency:before {
+    content: "\f109";
+}
+
+.icon-laboratory:before {
+    content: "\f10a";
+}
+
+.icon-first-aid-kit:before {
+    content: "\f10b";
+}
+
+.icon-patient:before {
+    content: "\f10c";
+}
+
+.icon-medical-equipment:before {
+    content: "\f10d";
+}
+
+.icon-consultation:before {
+    content: "\f10e";
+}
+
+.icon-prescription:before {
+    content: "\f10f";
+}
+
+.icon-medical-stretcher:before {
+    content: "\f110";
+}
+
+.icon-pediatrics:before {
+    content: "\f111";
+}
+
+.icon-orthopedics:before {
+    content: "\f112";
+}
+
+.icon-joint:before {
+    content: "\f113";
+}
+
+.icon-lunges:before {
+    content: "\f114";
+}
+
+.icon-dental:before {
+    content: "\f115";
+}
+
+.icon-insurance:before {
+    content: "\f116";
+}
+
+.icon-stethoscope:before {
+    content: "\f117";
+}
+
+.icon-laboratory-1:before {
+    content: "\f118";
+}
+
+.icon-hospital:before {
+    content: "\f119";
+}
+
+.icon-high-temperature:before {
+    content: "\f11a";
+}
+
+.icon-healthcare:before {
+    content: "\f11b";
+}
+
+.icon-cough:before {
+    content: "\f11c";
+}
+
+.icon-injection:before {
+    content: "\f11d";
+}
+
+.icon-pharmacy:before {
+    content: "\f11e";
+}
+
+.icon-medicine:before {
+    content: "\f11f";
+}
+
+.icon-cardiology:before {
+    content: "\f120";
+}
+
+.icon-runny-nose:before {
+    content: "\f121";
+}
+
+.icon-ear:before {
+    content: "\f122";
+}
+
+.icon-eye-examination:before {
+    content: "\f123";
+}
+
+.icon-mask:before {
+    content: "\f124";
+}
+
+.icon-laboratory-2:before {
+    content: "\f125";
+}
+
+.icon-eye:before {
+    content: "\f126";
+}
+
+.icon-brain:before {
+    content: "\f127";
+}
+
+.icon-molecule:before {
+    content: "\f128";
+}
+
+.icon-pharmacy-1:before {
+    content: "\f129";
+}
+
+.icon-report:before {
+    content: "\f12a";
+}
+
+.icon-inhalator:before {
+    content: "\f12b";
+}
+
+.icon-coronavirus:before {
+    content: "\f12c";
+}
+
+.icon-world:before {
+    content: "\f12d";
+}
+
+.icon-sphygmomanometer:before {
+    content: "\f12e";
+}
+
+.icon-transfusion:before {
+    content: "\f12f";
+}
+
+.icon-chemistry:before {
+    content: "\f130";
+}
+
+.icon-vaccine:before {
+    content: "\f131";
+}
+
+.icon-pills:before {
+    content: "\f132";
+}
+
+.icon-helicopter:before {
+    content: "\f133";
+}
+
+.icon-ventilation:before {
+    content: "\f134";
+}
+
+.icon-cardiogram:before {
+    content: "\f135";
+}
+
+.icon-wheel-chair:before {
+    content: "\f136";
+}
+
+.icon-sugar-blood-level:before {
+    content: "\f137";
+}
+
+.icon-hospital-bed:before {
+    content: "\f138";
+}
+
+.icon-surgery-room:before {
+    content: "\f139";
+}
+
+.icon-oxygen-tank:before {
+    content: "\f13a";
+}
+
+.icon-pedicure:before {
+    content: "\f13b";
+}
+
+.icon-elbow:before {
+    content: "\f13c";
+}
+
+.icon-liver:before {
+    content: "\f13d";
+}
+
+.icon-pils:before {
+    content: "\f13e";
+}
+
+.icon-ct-scan:before {
+    content: "\f13f";
+}
+
+.icon-live-chat:before {
+    content: "\f140";
+}
+
+.icon-test-tube:before {
+    content: "\f141";
+}
+
+.icon-thermometer:before {
+    content: "\f142";
+}
+
+.icon-lab-equipment:before {
+    content: "\f143";
+}
+
+.icon-drill:before {
+    content: "\f144";
+}
+
+.icon-sick:before {
+    content: "\f145";
+}
+
+.icon-coronavirus-1:before {
+    content: "\f146";
+}
+
+.icon-transfusion-1:before {
+    content: "\f147";
+}
+
+.icon-thermometer-1:before {
+    content: "\f148";
+}
+
+.icon-handwash:before {
+    content: "\f149";
+}
+
+.icon-blood-test:before {
+    content: "\f14a";
+}
+
+.icon-chemistry-1:before {
+    content: "\f14b";
+}
+
+.icon-microscope:before {
+    content: "\f14c";
+}
+
+.icon-hospital-1:before {
+    content: "\f14d";
+}
+
+.icon-time:before {
+    content: "\f14e";
+}
+
+.icon-chemistry-2:before {
+    content: "\f14f";
+}
+
+.icon-search:before {
+    content: "\f150";
+}
+
+.icon-tools:before {
+    content: "\f151";
+}
+
+.icon-tools-1:before {
+    content: "\f152";
+}
+
+.icon-cardiogram-1:before {
+    content: "\f153";
+}
+
+.icon-stethoscope-1:before {
+    content: "\f154";
+}
+
+.icon-laboratory-3:before {
+    content: "\f155";
+}
+
+.icon-bed:before {
+    content: "\f156";
+}
+
+.icon-ppe:before {
+    content: "\f157";
+}
+
+.icon-cough-1:before {
+    content: "\f158";
+}
+
+.icon-ambulance:before {
+    content: "\f159";
+}
+
+.icon-dna:before {
+    content: "\f15a";
+}
+
+.icon-rx:before {
+    content: "\f15b";
+}
+
+.icon-injection-1:before {
+    content: "\f15c";
+}
+
+.icon-injection-2:before {
+    content: "\f15d";
+}
+
+.icon-medicine-1:before {
+    content: "\f15e";
+}
+
+.icon-face-mask:before {
+    content: "\f15f";
+}
+
+.icon-medicine-2:before {
+    content: "\f160";
+}
+
+.icon-vaccine-1:before {
+    content: "\f161";
+}
+
+.icon-lungs:before {
+    content: "\f162";
+}
+
+.icon-avatar:before {
+    content: "\f163";
+}
+
+.icon-brain-1:before {
+    content: "\f164";
+}
+
+.icon-cells:before {
+    content: "\f165";
+}
+
+.icon-blood-donation:before {
+    content: "\f166";
+}
+
+.icon-face-mask-1:before {
+    content: "\f167";
+}
+
+.icon-location:before {
+    content: "\f168";
+}
+
+.icon-email:before {
+    content: "\f169";
+}
+
+.icon-phone-call:before {
+    content: "\f16a";
+}
+
+.icon-share:before {
+    content: "\f16b";
+}
+
+.icon-down-arrow:before {
+    content: "\f16c";
+}
+
+.icon-play-button:before {
+    content: "\f16d";
+}
+
+.icon-subscribe:before {
+    content: "\f16e";
+}
